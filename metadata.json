@@ -1,0 +1,8 @@
+{
+  "name": "قاطع الفواكه - استوديو اللعبة وبناء APK",
+  "description": "لعبة قاطع الفواكه التفاعلية مع مولد حزم APK للأندرويد واستوديو الذكاء الاصطناعي لإنشاء وتحليل صور الفواكه والتصميم",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
